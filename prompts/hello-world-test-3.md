@@ -8,7 +8,7 @@ is_public: true
 rating_avg: 0
 rating_count: 0
 created_at: "2026-01-15T15:28:24.184186+00:00"
-updated_at: "2026-01-19T14:37:58.79269+00:00"
+updated_at: "2026-01-19T14:38:35.764179+00:00"
 ---
 
 # Hello World Test 3
@@ -18,5 +18,5 @@ This is a simple prompt for testing Querino sync.
 ## Prompt Content
 
 ```
-Please say "Hello World!" nicely.
+Please say "Hello World!" nicely. oki?
 ```
